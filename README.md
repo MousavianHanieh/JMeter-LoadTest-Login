@@ -3,8 +3,9 @@
 This project demonstrates basic API testing using **Apache JMeter** with a chained request flow: Login → Extract Token → Use Token in subsequent request.
 
 
-## Live Report
-🔗 [Live JMeter Report](https://mousavianhanieh.github.io/JMeter-LoadTest-Login/report/)
+## Live JMeter Report
+🔗 [View Live Report](https://mousavianhanieh.github.io/JMeter-LoadTest-Login/report/)
+
 
 
 ## Tech Stack
